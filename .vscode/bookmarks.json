@@ -1,0 +1,82 @@
+[
+	{
+		"path": "$ROOTPATH$\\index.html",
+		"bookmarks": [
+			{
+				"line": 51,
+				"column": 22,
+				"label": ""
+			},
+			{
+				"line": 80,
+				"column": 23,
+				"label": ""
+			},
+			{
+				"line": 117,
+				"column": 21,
+				"label": ""
+			},
+			{
+				"line": 141,
+				"column": 25,
+				"label": ""
+			},
+			{
+				"line": 173,
+				"column": 18,
+				"label": ""
+			},
+			{
+				"line": 245,
+				"column": 27,
+				"label": ""
+			},
+			{
+				"line": 265,
+				"column": 19,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\style.css",
+		"bookmarks": [
+			{
+				"line": 0,
+				"column": 3,
+				"label": ""
+			},
+			{
+				"line": 36,
+				"column": 16,
+				"label": ""
+			},
+			{
+				"line": 70,
+				"column": 12,
+				"label": ""
+			},
+			{
+				"line": 93,
+				"column": 16,
+				"label": ""
+			},
+			{
+				"line": 146,
+				"column": 17,
+				"label": ""
+			},
+			{
+				"line": 174,
+				"column": 25,
+				"label": ""
+			},
+			{
+				"line": 215,
+				"column": 32,
+				"label": ""
+			}
+		]
+	}
+]
